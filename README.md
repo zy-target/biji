@@ -13,3 +13,5 @@ $ git rebase master
 $ git merge work
 
 git push origin dev -u
+
+git commit -a
