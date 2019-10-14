@@ -15,4 +15,12 @@ $ git merge work
 git push origin dev -u
 
 git status
+
+
 git commit -a
+
+冲突之后解决完
+git add 文件名
+git commit -m "备注"
+
+git push
