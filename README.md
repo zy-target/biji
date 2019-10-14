@@ -15,3 +15,4 @@ $ git merge work
 git push origin dev -u
 
 git status
+git commit -a
