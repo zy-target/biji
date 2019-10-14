@@ -11,3 +11,5 @@ $ git rebase master
 
 合并工作分支的修改，此时不会产生冲突。
 $ git merge work
+
+git push origin dev -u
