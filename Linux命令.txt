@@ -1,0 +1,15 @@
+创建用户
+adduser 用户名
+passwd 用户名
+
+groups //查看该用户的所有组
+
+usermod -G root 用户名 //将用户放在root组中
+
+groupadd zyes //创建组
+
+delgroup zyes //删除组
+
+userdel 用户名 //删除用户
+
+deluser –remove-home 用户名 //删除用户的同时删除/home下面的文件夹
